@@ -1,0 +1,25 @@
+[
+  {
+    "version":1,
+	"devOnly":false,
+    "files":[
+      "private.key.enc",
+      "certificate.crt.enc"
+    ]
+  },
+  {
+	"version":2,
+	"devOnly":true,
+	"files":[
+		"clean.exe.enc",
+		"modifyHost.exe.enc",
+		"QuickStart.exe.enc",
+		"startServer.exe.enc",
+		"updater.exe.enc",
+		"api.js.enc",
+		"own_modules/patchData_game.json.enc",
+		"forgetools/js/ea/app.js.enc",
+		"package.json.enc"
+	]
+  }
+ ]
