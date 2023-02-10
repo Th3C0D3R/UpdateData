@@ -141,5 +141,12 @@
 		"updater.exe.enc",
 		"QuickStart.exe.enc"
 	]
+  },
+  {
+	"version":18,
+	"devOnly":false,
+	"files":[
+		"QuickStart.exe.enc"
+	]
   }
  ]
