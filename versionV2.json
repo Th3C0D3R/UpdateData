@@ -148,5 +148,15 @@
 	"files":[
 		"QuickStart.exe.enc"
 	]
+  },
+  {
+	"version":19,
+	"devOnly":false,
+	"files":[
+		"updater.exe.enc",
+		"own_modules/patchData_game.json.enc",
+		"package.json.enc",
+		"package-lock.json.enc"
+	]
   }
  ]
