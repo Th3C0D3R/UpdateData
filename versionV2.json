@@ -168,10 +168,11 @@
   },
   {
 	"version":21,
-	"devOnly":true,
+	"devOnly":false,
 	"files":[
 		"forgetools/js/ea/app.js.enc",
-		"forgetools/css/app.css.enc"
+		"forgetools/css/app.css.enc",
+		"forgetools/css/appEA.css.enc"
 	]
   }
  ]
