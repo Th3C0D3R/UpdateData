@@ -174,5 +174,12 @@
 		"forgetools/css/app.css.enc",
 		"forgetools/css/appEA.css.enc"
 	]
+  },
+  {
+	"version":22,
+	"devOnly":false,
+	"files":[
+		"forgetools/js/ea/app.js.enc"
+	]
   }
  ]
