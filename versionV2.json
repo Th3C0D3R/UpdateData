@@ -181,5 +181,12 @@
 	"files":[
 		"forgetools/js/ea/app.js.enc"
 	]
+  },
+  {
+	"version":23,
+	"devOnly":true,
+	"files":[
+		"QuickStart.exe.enc"
+	]
   }
  ]
