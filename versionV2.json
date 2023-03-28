@@ -188,5 +188,12 @@
 	"files":[
 		"QuickStart.exe.enc"
 	]
+  },
+  {
+	"version":24,
+	"devOnly":false,
+	"files":[
+		"QuickStart.exe.enc"
+	]
   }
  ]
