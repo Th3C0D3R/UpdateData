@@ -1,199 +1,228 @@
 [
-  {
-    "version":1,
-	"devOnly":false,
-    "files":[
-      "private.key.enc",
-      "certificate.crt.enc"
-    ]
-  },
-  {
-	"version":2,
-	"devOnly":false,
-	"files":[
-		"clean.exe.enc",
-		"modifyHost.exe.enc",
-		"QuickStart.exe.enc",
-		"startServer.exe.enc",
-		"updater.exe.enc",
-		"api.js.enc",
-		"own_modules/patchData_game.json.enc",
-		"forgetools/js/ea/app.js.enc",
-		"package.json.enc"
-	]
-  },
-  {
-	"version":3,
-	"devOnly":false,
-	"files":[
-		"QuickStart.exe.enc",
-		"api.js.enc",
-		"forgetools/js/ea/app.js.enc"
-	]
-  },
-  {
-	"version":4,
-	"devOnly":false,
-	"files":[
-		"forgetools/js/ea/app.js.enc"
-	]
-  },
-  {
-	"version":5,
-	"devOnly":false,
-	"files":[
-		"updater.exe.enc",
-		"QuickStart.exe.enc",
-		"forgetools/js/ea/app.js.enc"
-	]
-  },
-  {
-	"version":6,
-	"devOnly":false,
-	"files":[
-		"updater.exe.enc"
-	]
-  },
-  {
-	"version":7,
-	"devOnly":false,
-	"files":[
-		"forgetools/js/ea/app.js.enc"
-	]
-  },
-  {
-	"version":8,
-	"devOnly":false,
-	"files":[
-		"forgetools/js/ea/app.js.enc"
-	]
-  },
-  {
-	"version":9,
-	"devOnly":false,
-	"files":[
-		"updater.exe.enc",
-		"QuickStart.exe.enc",
-		"forgetools/js/ea/app.js.enc"
-	]
-  },
-  {
-	"version":10,
-	"devOnly":false,
-	"files":[
-		"QuickStart.exe.enc"
-	]
-  },
-  {
-	"version":11,
-	"devOnly":false,
-	"files":[
-		"clean.exe.enc",
-		"modifyHost.exe.enc",
-		"QuickStart.exe.enc",
-		"startServer.exe.enc",
-		"updater.exe.enc"
-	]
-  },
-  {
-	"version":12,
-	"devOnly":false,
-	"files":[
-		"updater.exe.enc",
-		"QuickStart.exe.enc"
-	]
-  },
-  {
-	"version":13,
-	"devOnly":false,
-	"files":[
-		"forgetools/js/ea/app.js.enc"
-	]
-  },
-  {
-	"version":14,
-	"devOnly":false,
-	"files":[
-		"forgetools/js/ea/app.js.enc"
-	]
-  },
-  {
-	"version":15,
-	"devOnly":false,
-	"files":[
-		"private.key.enc",
-      "certificate.crt.enc",
-	  "ca_bundle.crt.enc"
-	]
-  },
-  {
-	"version":16,
-	"devOnly":false,
-	"files":[
-		"QuickStart.exe.enc"
-	]
-  },
-  {
-	"version":17,
-	"devOnly":false,
-	"files":[
-		"own_modules/patchData_game.json.enc",
-		"updater.exe.enc",
-		"QuickStart.exe.enc"
-	]
-  },
-  {
-	"version":18,
-	"devOnly":false,
-	"files":[
-		"QuickStart.exe.enc"
-	]
-  },
-  {
-	"version":19,
-	"devOnly":false,
-	"files":[
-		"updater.exe.enc",
-		"own_modules/patchData_game.json.enc",
-		"package.json.enc",
-		"package-lock.json.enc"
-	]
-  },
-  {
-	"version":20,
-	"devOnly":false,
-	"files":[
-		"own_modules/patchData_game.json.enc"
-	]
-  },
-  {
-	"version":21,
-	"devOnly":false,
-	"files":[
-		"forgetools/js/ea/app.js.enc",
-		"forgetools/css/app.css.enc",
-		"forgetools/css/appEA.css.enc"
-	]
-  },
-  {
-	"version":22,
-	"devOnly":false,
-	"files":[
-		"forgetools/js/ea/app.js.enc"
-	]
-  },
-  {
-	"version":23,
-	"devOnly":false,
-	"files":[
-		"QuickStart.exe.enc"
-	]
-  },
-  {
-	"version":24,
-	"devOnly":false,
-	"files":[
-		"QuickStart.exe.enc"
-	]
-  }
- ]
+	{
+		"version": 1,
+		"devOnly": false,
+		"files": [
+			"private.key.enc",
+			"certificate.crt.enc"
+		]
+	},
+	{
+		"version": 2,
+		"devOnly": false,
+		"files": [
+			"clean.exe.enc",
+			"modifyHost.exe.enc",
+			"QuickStart.exe.enc",
+			"startServer.exe.enc",
+			"updater.exe.enc",
+			"api.js.enc",
+			"own_modules/patchData_game.json.enc",
+			"forgetools/js/ea/app.js.enc",
+			"package.json.enc"
+		]
+	},
+	{
+		"version": 3,
+		"devOnly": false,
+		"files": [
+			"QuickStart.exe.enc",
+			"api.js.enc",
+			"forgetools/js/ea/app.js.enc"
+		]
+	},
+	{
+		"version": 4,
+		"devOnly": false,
+		"files": [
+			"forgetools/js/ea/app.js.enc"
+		]
+	},
+	{
+		"version": 5,
+		"devOnly": false,
+		"files": [
+			"updater.exe.enc",
+			"QuickStart.exe.enc",
+			"forgetools/js/ea/app.js.enc"
+		]
+	},
+	{
+		"version": 6,
+		"devOnly": false,
+		"files": [
+			"updater.exe.enc"
+		]
+	},
+	{
+		"version": 7,
+		"devOnly": false,
+		"files": [
+			"forgetools/js/ea/app.js.enc"
+		]
+	},
+	{
+		"version": 8,
+		"devOnly": false,
+		"files": [
+			"forgetools/js/ea/app.js.enc"
+		]
+	},
+	{
+		"version": 9,
+		"devOnly": false,
+		"files": [
+			"updater.exe.enc",
+			"QuickStart.exe.enc",
+			"forgetools/js/ea/app.js.enc"
+		]
+	},
+	{
+		"version": 10,
+		"devOnly": false,
+		"files": [
+			"QuickStart.exe.enc"
+		]
+	},
+	{
+		"version": 11,
+		"devOnly": false,
+		"files": [
+			"clean.exe.enc",
+			"modifyHost.exe.enc",
+			"QuickStart.exe.enc",
+			"startServer.exe.enc",
+			"updater.exe.enc"
+		]
+	},
+	{
+		"version": 12,
+		"devOnly": false,
+		"files": [
+			"updater.exe.enc",
+			"QuickStart.exe.enc"
+		]
+	},
+	{
+		"version": 13,
+		"devOnly": false,
+		"files": [
+			"forgetools/js/ea/app.js.enc"
+		]
+	},
+	{
+		"version": 14,
+		"devOnly": false,
+		"files": [
+			"forgetools/js/ea/app.js.enc"
+		]
+	},
+	{
+		"version": 15,
+		"devOnly": false,
+		"files": [
+			"private.key.enc",
+			"certificate.crt.enc",
+			"ca_bundle.crt.enc"
+		]
+	},
+	{
+		"version": 16,
+		"devOnly": false,
+		"files": [
+			"QuickStart.exe.enc"
+		]
+	},
+	{
+		"version": 17,
+		"devOnly": false,
+		"files": [
+			"own_modules/patchData_game.json.enc",
+			"updater.exe.enc",
+			"QuickStart.exe.enc"
+		]
+	},
+	{
+		"version": 18,
+		"devOnly": false,
+		"files": [
+			"QuickStart.exe.enc"
+		]
+	},
+	{
+		"version": 19,
+		"devOnly": false,
+		"files": [
+			"updater.exe.enc",
+			"own_modules/patchData_game.json.enc",
+			"package.json.enc",
+			"package-lock.json.enc"
+		]
+	},
+	{
+		"version": 20,
+		"devOnly": false,
+		"files": [
+			"own_modules/patchData_game.json.enc"
+		]
+	},
+	{
+		"version": 21,
+		"devOnly": false,
+		"files": [
+			"forgetools/js/ea/app.js.enc",
+			"forgetools/css/app.css.enc",
+			"forgetools/css/appEA.css.enc"
+		]
+	},
+	{
+		"version": 22,
+		"devOnly": false,
+		"files": [
+			"forgetools/js/ea/app.js.enc"
+		]
+	},
+	{
+		"version": 23,
+		"devOnly": false,
+		"files": [
+			"QuickStart.exe.enc"
+		]
+	},
+	{
+		"version": 24,
+		"devOnly": false,
+		"files": [
+			"QuickStart.exe.enc"
+		]
+	},
+	{
+		"version": 25,
+		"devOnly": false,
+		"files": [
+			"zh-Hant\\Microsoft.Win32.TaskScheduler.resources.dll.enc",
+			"pl\\Microsoft.Win32.TaskScheduler.resources.dll.enc",
+			"Microsoft.AppCenter.Analytics.dll.enc",
+			"es\\Microsoft.Win32.TaskScheduler.resources.dll.enc",
+			"SQLitePCLRaw.provider.dynamic_cdecl.dll.enc",
+			"Microsoft.Win32.TaskScheduler.dll.enc",
+			"SQLitePCLRaw.batteries_v2.dll.enc",
+			"Microsoft.AppCenter.dll.enc",
+			"ru\\Microsoft.Win32.TaskScheduler.resources.dll.enc",
+			"Microsoft.AppCenter.Crashes.dll.enc",
+			"runtimes\\win-x64\\native\\e_sqlite3.dll.enc",
+			"System.Buffers.dll.enc",
+			"fr\\Microsoft.Win32.TaskScheduler.resources.dll.enc",
+			"System.Memory.dll.enc",
+			"SQLitePCLRaw.core.dll.enc",
+			"runtimes\\win-arm\\native\\e_sqlite3.dll.enc",
+			"System.Runtime.CompilerServices.Unsafe.dll.enc",
+			"System.Numerics.Vectors.dll.enc",
+			"it\\Microsoft.Win32.TaskScheduler.resources.dll.enc",
+			"runtimes\\win-x86\\native\\e_sqlite3.dll.enc",
+			"de\\Microsoft.Win32.TaskScheduler.resources.dll.enc",
+			"SQLitePCLRaw.nativelibrary.dll.enc",
+			"zh-CN\\Microsoft.Win32.TaskScheduler.resources.dll.enc"
+		]
+	}
+]
