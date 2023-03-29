@@ -197,7 +197,21 @@
 		]
 	},
 	{
-		"version": 25,
+		"version": 26,
+		"devOnly": false,
+		"files": [
+			"updater.exe.enc"
+		]
+	},
+	{
+		"version": 27,
+		"devOnly": false,
+		"files": [
+			"updater.exe.enc"
+		]
+	},
+	{
+		"version": 28,
 		"devOnly": true,
 		"files": [
 			"runtimes/win-x64/native/e_sqlite3.dll.enc",
@@ -225,11 +239,4 @@
 			"zh-Hant/Microsoft.Win32.TaskScheduler.resources.dll.enc"
 		]
 	},
-	{
-		"version": 26,
-		"devOnly": false,
-		"files": [
-			"updater.exe.enc"
-		]
-	}
 ]
