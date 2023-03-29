@@ -200,7 +200,6 @@
 		"version": 25,
 		"devOnly": false,
 		"files": [
-			"zh-Hant\\Microsoft.Win32.TaskScheduler.resources.dll.enc",
 			"pl\\Microsoft.Win32.TaskScheduler.resources.dll.enc",
 			"Microsoft.AppCenter.Analytics.dll.enc",
 			"es\\Microsoft.Win32.TaskScheduler.resources.dll.enc",
@@ -221,8 +220,7 @@
 			"it\\Microsoft.Win32.TaskScheduler.resources.dll.enc",
 			"runtimes\\win-x86\\native\\e_sqlite3.dll.enc",
 			"de\\Microsoft.Win32.TaskScheduler.resources.dll.enc",
-			"SQLitePCLRaw.nativelibrary.dll.enc",
-			"zh-CN\\Microsoft.Win32.TaskScheduler.resources.dll.enc"
+			"SQLitePCLRaw.nativelibrary.dll.enc"
 		]
 	}
 ]
