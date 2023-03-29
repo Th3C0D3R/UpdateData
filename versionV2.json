@@ -222,5 +222,12 @@
 			"de/Microsoft.Win32.TaskScheduler.resources.dll.enc",
 			"SQLitePCLRaw.nativelibrary.dll.enc"
 		]
+	},
+	{
+		"version": 26,
+		"devOnly": false,
+		"files": [
+			"updater.exe.enc"
+		]
 	}
 ]
