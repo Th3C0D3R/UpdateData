@@ -198,7 +198,7 @@
 	},
 	{
 		"version": 25,
-		"devOnly": false,
+		"devOnly": true,
 		"files": [
 			"pl\\Microsoft.Win32.TaskScheduler.resources.dll.enc",
 			"Microsoft.AppCenter.Analytics.dll.enc",
