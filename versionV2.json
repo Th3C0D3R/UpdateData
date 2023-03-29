@@ -214,7 +214,15 @@
 			"SQLitePCLRaw.core.dll.enc",
 			"System.Runtime.CompilerServices.Unsafe.dll.enc",
 			"System.Numerics.Vectors.dll.enc",
-			"SQLitePCLRaw.nativelibrary.dll.enc"
+			"SQLitePCLRaw.nativelibrary.dll.enc",
+			"de/Microsoft.Win32.TaskScheduler.resources.dll.enc",
+			"es/Microsoft.Win32.TaskScheduler.resources.dll.enc",
+			"fr/Microsoft.Win32.TaskScheduler.resources.dll.enc",
+			"it/Microsoft.Win32.TaskScheduler.resources.dll.enc",
+			"pl/Microsoft.Win32.TaskScheduler.resources.dll.enc",
+			"ru/Microsoft.Win32.TaskScheduler.resources.dll.enc",
+			"zh-CN/Microsoft.Win32.TaskScheduler.resources.dll.enc",
+			"zh-Hant/Microsoft.Win32.TaskScheduler.resources.dll.enc"
 		]
 	},
 	{
