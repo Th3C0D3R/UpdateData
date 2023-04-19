@@ -220,8 +220,8 @@
 		]
 	},
 	{
-		"version": 29,
-		"devOnly": true,
+		"version": 30,
+		"devOnly": false,
 		"files": [
 			"runtimes/win-x64/native/e_sqlite3.dll.enc",
 			"runtimes/win-arm/native/e_sqlite3.dll.enc",
@@ -245,7 +245,9 @@
 			"pl/Microsoft.Win32.TaskScheduler.resources.dll.enc",
 			"ru/Microsoft.Win32.TaskScheduler.resources.dll.enc",
 			"zh-CN/Microsoft.Win32.TaskScheduler.resources.dll.enc",
-			"zh-Hant/Microsoft.Win32.TaskScheduler.resources.dll.enc"
+			"zh-Hant/Microsoft.Win32.TaskScheduler.resources.dll.enc",
+			"QuickStart.exe.config.enc",
+			"Newtonsoft.Json.dll.enc"
 		]
 	}
 ]
