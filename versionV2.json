@@ -212,6 +212,15 @@
 	},
 	{
 		"version": 28,
+		"devOnly": false,
+		"files": [
+			"forgetools/js/ea/app.js.enc",
+			"updater.exe.enc",
+			"QuickStart.exe.enc"
+		]
+	},
+	{
+		"version": 29,
 		"devOnly": true,
 		"files": [
 			"runtimes/win-x64/native/e_sqlite3.dll.enc",
