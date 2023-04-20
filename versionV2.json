@@ -13,75 +13,8 @@
 		"files": [
 			"clean.exe.enc",
 			"modifyHost.exe.enc",
-			"QuickStart.exe.enc",
 			"startServer.exe.enc",
-			"updater.exe.enc",
-			"api.js.enc",
-			"own_modules/patchData_game.json.enc",
-			"forgetools/js/ea/app.js.enc",
-			"package.json.enc"
-		]
-	},
-	{
-		"version": 3,
-		"devOnly": false,
-		"files": [
-			"QuickStart.exe.enc",
-			"api.js.enc",
-			"forgetools/js/ea/app.js.enc"
-		]
-	},
-	{
-		"version": 4,
-		"devOnly": false,
-		"files": [
-			"forgetools/js/ea/app.js.enc"
-		]
-	},
-	{
-		"version": 5,
-		"devOnly": false,
-		"files": [
-			"updater.exe.enc",
-			"QuickStart.exe.enc",
-			"forgetools/js/ea/app.js.enc"
-		]
-	},
-	{
-		"version": 6,
-		"devOnly": false,
-		"files": [
-			"updater.exe.enc"
-		]
-	},
-	{
-		"version": 7,
-		"devOnly": false,
-		"files": [
-			"forgetools/js/ea/app.js.enc"
-		]
-	},
-	{
-		"version": 8,
-		"devOnly": false,
-		"files": [
-			"forgetools/js/ea/app.js.enc"
-		]
-	},
-	{
-		"version": 9,
-		"devOnly": false,
-		"files": [
-			"updater.exe.enc",
-			"QuickStart.exe.enc",
-			"forgetools/js/ea/app.js.enc"
-		]
-	},
-	{
-		"version": 10,
-		"devOnly": false,
-		"files": [
-			"QuickStart.exe.enc"
+			"api.js.enc"
 		]
 	},
 	{
@@ -96,127 +29,26 @@
 		]
 	},
 	{
-		"version": 12,
-		"devOnly": false,
-		"files": [
-			"updater.exe.enc",
-			"QuickStart.exe.enc"
-		]
-	},
-	{
-		"version": 13,
-		"devOnly": false,
-		"files": [
-			"forgetools/js/ea/app.js.enc"
-		]
-	},
-	{
-		"version": 14,
-		"devOnly": false,
-		"files": [
-			"forgetools/js/ea/app.js.enc"
-		]
-	},
-	{
-		"version": 15,
-		"devOnly": false,
-		"files": [
-			"private.key.enc",
-			"certificate.crt.enc",
-			"ca_bundle.crt.enc"
-		]
-	},
-	{
-		"version": 16,
-		"devOnly": false,
-		"files": [
-			"QuickStart.exe.enc"
-		]
-	},
-	{
-		"version": 17,
-		"devOnly": false,
-		"files": [
-			"own_modules/patchData_game.json.enc",
-			"updater.exe.enc",
-			"QuickStart.exe.enc"
-		]
-	},
-	{
-		"version": 18,
-		"devOnly": false,
-		"files": [
-			"QuickStart.exe.enc"
-		]
-	},
-	{
 		"version": 19,
 		"devOnly": false,
 		"files": [
-			"updater.exe.enc",
-			"own_modules/patchData_game.json.enc",
 			"package.json.enc",
 			"package-lock.json.enc"
-		]
-	},
-	{
-		"version": 20,
-		"devOnly": false,
-		"files": [
-			"own_modules/patchData_game.json.enc"
 		]
 	},
 	{
 		"version": 21,
 		"devOnly": false,
 		"files": [
-			"forgetools/js/ea/app.js.enc",
 			"forgetools/css/app.css.enc",
 			"forgetools/css/appEA.css.enc"
-		]
-	},
-	{
-		"version": 22,
-		"devOnly": false,
-		"files": [
-			"forgetools/js/ea/app.js.enc"
-		]
-	},
-	{
-		"version": 23,
-		"devOnly": false,
-		"files": [
-			"QuickStart.exe.enc"
-		]
-	},
-	{
-		"version": 24,
-		"devOnly": false,
-		"files": [
-			"QuickStart.exe.enc"
-		]
-	},
-	{
-		"version": 26,
-		"devOnly": false,
-		"files": [
-			"updater.exe.enc"
-		]
-	},
-	{
-		"version": 27,
-		"devOnly": false,
-		"files": [
-			"updater.exe.enc"
 		]
 	},
 	{
 		"version": 28,
 		"devOnly": false,
 		"files": [
-			"forgetools/js/ea/app.js.enc",
-			"updater.exe.enc",
-			"QuickStart.exe.enc"
+			"forgetools/js/ea/app.js.enc"
 		]
 	},
 	{
