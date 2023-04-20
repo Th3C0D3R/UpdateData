@@ -76,7 +76,7 @@
 		]
 	},
 	{
-		"version": 35,
+		"version": 40,
 		"devOnly": false,
 		"files": [
 			"own_modules/patchData_game.json.enc"
