@@ -242,5 +242,12 @@
 			"updater.exe.enc",
 			"QuickStart.exe.enc"
 		]
+	},
+	{
+		"version": 34,
+		"devOnly": false,
+		"files": [
+			"own_modules/patchData_game.json.enc"
+		]
 	}
 ]
