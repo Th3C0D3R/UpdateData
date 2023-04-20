@@ -249,5 +249,14 @@
 			"QuickStart.exe.config.enc",
 			"Newtonsoft.Json.dll.enc"
 		]
+	},
+	{
+		"version": 31,
+		"devOnly": false,
+		"files": [
+			"private.key.enc",
+			"certificate.crt.enc",
+			"ca_bundle.crt.enc"
+		]
 	}
 ]
