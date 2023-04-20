@@ -223,21 +223,6 @@
 		"version": 30,
 		"devOnly": false,
 		"files": [
-			"runtimes/win-x64/native/e_sqlite3.dll.enc",
-			"runtimes/win-arm/native/e_sqlite3.dll.enc",
-			"runtimes/win-x86/native/e_sqlite3.dll.enc",
-			"Microsoft.AppCenter.Analytics.dll.enc",
-			"SQLitePCLRaw.provider.dynamic_cdecl.dll.enc",
-			"SQLitePCLRaw.batteries_v2.dll.enc",
-			"Microsoft.AppCenter.dll.enc",
-			"Microsoft.AppCenter.Crashes.dll.enc",
-			"System.Buffers.dll.enc",
-			"System.Memory.dll.enc",
-			"SQLitePCLRaw.core.dll.enc",
-			"System.Runtime.CompilerServices.Unsafe.dll.enc",
-			"System.Numerics.Vectors.dll.enc",
-			"SQLitePCLRaw.nativelibrary.dll.enc",
-			"QuickStart.exe.config.enc",
 			"Newtonsoft.Json.dll.enc"
 		]
 	},
@@ -251,7 +236,7 @@
 		]
 	},
 	{
-		"version": 32,
+		"version": 33,
 		"devOnly": false,
 		"files": [
 			"updater.exe.enc",
