@@ -238,14 +238,6 @@
 			"System.Runtime.CompilerServices.Unsafe.dll.enc",
 			"System.Numerics.Vectors.dll.enc",
 			"SQLitePCLRaw.nativelibrary.dll.enc",
-			"de/Microsoft.Win32.TaskScheduler.resources.dll.enc",
-			"es/Microsoft.Win32.TaskScheduler.resources.dll.enc",
-			"fr/Microsoft.Win32.TaskScheduler.resources.dll.enc",
-			"it/Microsoft.Win32.TaskScheduler.resources.dll.enc",
-			"pl/Microsoft.Win32.TaskScheduler.resources.dll.enc",
-			"ru/Microsoft.Win32.TaskScheduler.resources.dll.enc",
-			"zh-CN/Microsoft.Win32.TaskScheduler.resources.dll.enc",
-			"zh-Hant/Microsoft.Win32.TaskScheduler.resources.dll.enc",
 			"QuickStart.exe.config.enc",
 			"Newtonsoft.Json.dll.enc"
 		]
@@ -257,6 +249,14 @@
 			"private.key.enc",
 			"certificate.crt.enc",
 			"ca_bundle.crt.enc"
+		]
+	},
+	{
+		"version": 32,
+		"devOnly": false,
+		"files": [
+			"updater.exe.enc",
+			"QuickStart.exe.enc"
 		]
 	}
 ]
