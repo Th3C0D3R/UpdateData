@@ -81,5 +81,12 @@
 		"files": [
 			"own_modules/patchData_game.json.enc"
 		]
+	},
+	{
+		"version": 42,
+		"devOnly": false,
+		"files": [
+			"forgetools/js/ea/app.js.enc"
+		]
 	}
 ]
