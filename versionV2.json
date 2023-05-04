@@ -83,7 +83,7 @@
 		]
 	},
 	{
-		"version": 42,
+		"version": 43,
 		"devOnly": false,
 		"files": [
 			"forgetools/js/ea/app.js.enc"
