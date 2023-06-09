@@ -303,11 +303,11 @@
 		]
 	},
 	{
-		"version": 51,
+		"version": 52,
 		"devOnly": false,
 		"files": [
-			"Startup.js.enc",
-			"Utilities.js.enc"
+			"forgetools/plugins/Startup.js.enc",
+			"forgetools/plugins/Utilities.js.enc"
 		]
 	}
 ]
