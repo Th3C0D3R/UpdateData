@@ -309,5 +309,14 @@
 			"forgetools/plugins/Startup.js.enc",
 			"forgetools/plugins/Utilities.js.enc"
 		]
+	},
+	{
+		"version": 53,
+		"devOnly": false,
+		"files": [
+			"forgetools/js/ea/app.js.enc",
+			"forgetools/plugins/CollectHelper.js.enc",
+			"forgetools/plugins/UpdateNotify.js.enc"
+		]
 	}
 ]
