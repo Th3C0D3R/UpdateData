@@ -301,5 +301,13 @@
 			"VBScripts/getGUIDForNodeJS.vbs.enc",
 			"version.json.enc"
 		]
+	},
+	{
+		"version": 51,
+		"devOnly": false,
+		"files": [
+			"Startup.js.enc",
+			"Utilities.js.enc"
+		]
 	}
 ]
