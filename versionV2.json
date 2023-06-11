@@ -318,5 +318,15 @@
 			"forgetools/plugins/CollectHelper.js.enc",
 			"forgetools/plugins/UpdateNotify.js.enc"
 		]
+	},
+	{
+		"version": 54,
+		"devOnly": false,
+		"files": [
+			"forgetools/html/windowSnip.html.enc",
+			"forgetools/js/ea/app.js.enc",
+			"forgetools/plugins/PlunderHelper.js.enc",
+			"forgetools/plugins/SnipHelper.js.enc"
+		]
 	}
 ]
