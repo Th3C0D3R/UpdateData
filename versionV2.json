@@ -303,39 +303,18 @@
 		]
 	},
 	{
-		"version": 52,
-		"devOnly": false,
-		"files": [
-			"forgetools/plugins/Startup.js.enc",
-			"forgetools/plugins/Utilities.js.enc"
-		]
-	},
-	{
-		"version": 53,
-		"devOnly": false,
-		"files": [
-			"forgetools/js/ea/app.js.enc",
-			"forgetools/plugins/CollectHelper.js.enc",
-			"forgetools/plugins/UpdateNotify.js.enc"
-		]
-	},
-	{
-		"version": 54,
-		"devOnly": false,
-		"files": [
-			"forgetools/html/windowSnip.html.enc",
-			"forgetools/js/ea/app.js.enc",
-			"forgetools/plugins/PlunderHelper.js.enc",
-			"forgetools/plugins/SnipHelper.js.enc"
-		]
-	},
-	{
 		"version": 55,
 		"devOnly": false,
 		"files": [
 			"forgetools/config/language/de.json.enc",
 			"forgetools/config/language/en.json.enc",
 			"forgetools/config/language/ru.json.enc",
+			"forgetools/plugins/Startup.js.enc",
+			"forgetools/html/windowSnip.html.enc",
+			"forgetools/js/ea/app.js.enc",
+			"forgetools/plugins/CollectHelper.js.enc",
+			"forgetools/plugins/UpdateNotify.js.enc",
+			"forgetools/plugins/PlunderHelper.js.enc",
 			"forgetools/html/ui/gbg.html.enc",
 			"forgetools/html/ui/ge.html.enc",
 			"forgetools/html/ui/gvg.html.enc",
@@ -349,7 +328,15 @@
 			"forgetools/plugins/ui/City.js.enc",
 			"forgetools/plugins/ui/Main.js.enc",
 			"forgetools/plugins/Utilities.js.enc",
+			"forgetools/plugins/SnipHelper.js.enc",
 			"own_modules/patchData_game.json.enc"
+		]
+	},
+	{
+		"version": 56,
+		"devOnly": false,
+		"files": [
+			"forgetools/plugins/SocialHandler.js.enc"
 		]
 	}
 ]
