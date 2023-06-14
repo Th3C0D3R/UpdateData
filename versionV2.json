@@ -328,5 +328,28 @@
 			"forgetools/plugins/PlunderHelper.js.enc",
 			"forgetools/plugins/SnipHelper.js.enc"
 		]
+	},
+	{
+		"version": 55,
+		"devOnly": false,
+		"files": [
+			"forgetools/config/language/de.json.enc",
+			"forgetools/config/language/en.json.enc",
+			"forgetools/config/language/ru.json.enc",
+			"forgetools/html/ui/gbg.html.enc",
+			"forgetools/html/ui/ge.html.enc",
+			"forgetools/html/ui/gvg.html.enc",
+			"forgetools/plugins/BattlegroundHelper.js.enc",
+			"forgetools/plugins/GameData.js.enc",
+			"forgetools/plugins/GameHandler.js.enc",
+			"forgetools/plugins/GvGHelper.js.enc",
+			"forgetools/plugins/QuestLoopHelper.js.enc",
+			"forgetools/plugins/Settings.js.enc",
+			"forgetools/plugins/SocialHandler.js.enc",
+			"forgetools/plugins/ui/City.js.enc",
+			"forgetools/plugins/ui/Main.js.enc",
+			"forgetools/plugins/Utilities.js.enc",
+			"own_modules/patchData_game.json.enc"
+		]
 	}
 ]
