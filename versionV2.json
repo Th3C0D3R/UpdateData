@@ -338,5 +338,12 @@
 		"files": [
 			"forgetools/plugins/SocialHandler.js.enc"
 		]
+	},
+	{
+		"version": 57,
+		"devOnly": false,
+		"files": [
+			"forgetools/plugins/CollectHelper.js.enc"
+		]
 	}
 ]
