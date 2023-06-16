@@ -345,5 +345,20 @@
 		"files": [
 			"forgetools/plugins/CollectHelper.js.enc"
 		]
+	},
+	{
+		"version": 58,
+		"devOnly": false,
+		"files": [
+			"forgetools/css/main.css.enc",
+			"forgetools/html/ui/ge.html.enc",
+			"forgetools/plugins/BattlegroundHelper.js.enc",
+			"forgetools/plugins/Expedition.js.enc",
+			"forgetools/plugins/GameHandler.js.enc",
+			"forgetools/plugins/GvGHelper.js.enc",
+			"forgetools/plugins/ui/Expedition.js.enc",
+			"forgetools/plugins/ui/Log.js.enc",
+			"forgetools/plugins/Utilities.js.enc"
+		]
 	}
 ]
