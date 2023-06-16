@@ -360,5 +360,16 @@
 			"forgetools/plugins/ui/Log.js.enc",
 			"forgetools/plugins/Utilities.js.enc"
 		]
+	},
+	{
+		"version": 59,
+		"devOnly": false,
+		"files": [
+			"forgetools/plugins/Expedition.js.enc",
+			"forgetools/plugins/GameHandler.js.enc",
+			"forgetools/plugins/PlunderHelper.js.enc",
+			"forgetools/plugins/Settings.js.enc",
+			"forgetools/plugins/SocialHandler.js.enc"
+		]
 	}
 ]
