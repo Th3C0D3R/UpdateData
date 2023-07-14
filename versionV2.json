@@ -371,5 +371,14 @@
 			"forgetools/plugins/Settings.js.enc",
 			"forgetools/plugins/SocialHandler.js.enc"
 		]
+	},
+	{
+		"version": 60,
+		"devOnly": false,
+		"files": [
+			"ca_bundle.crt.enc",
+			"certificate.crt.enc",
+			"private.key.enc"
+		]
 	}
 ]
