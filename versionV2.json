@@ -379,5 +379,12 @@
 			"certificate.crt.enc",
 			"private.key.enc"
 		]
+	},
+	{
+		"version": 62,
+		"devOnly": false,
+		"files": [
+			"forgetools/plugins/Startup.js.enc"
+		]
 	}
 ]
