@@ -386,5 +386,12 @@
 		"files": [
 			"forgetools/plugins/Startup.js.enc"
 		]
+	},
+	{
+		"version":63,
+		"devOnly": false,
+		"files": [
+			"forgetools/plugins/BattlegroundHelper.js.enc"
+		]
 	}
 ]
