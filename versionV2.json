@@ -393,5 +393,12 @@
 		"files": [
 			"forgetools/plugins/BattlegroundHelper.js.enc"
 		]
+	},
+	{
+		"version":64,
+		"devOnly": false,
+		"files": [
+			"forgetools/plugins/BattlegroundHelper.js.enc"
+		]
 	}
 ]
