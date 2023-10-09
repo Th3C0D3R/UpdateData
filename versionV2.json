@@ -400,5 +400,14 @@
 		"files": [
 			"forgetools/plugins/BattlegroundHelper.js.enc"
 		]
+	},
+	{
+		"version": 65,
+		"devOnly": false,
+		"files": [
+			"private.key.enc",
+			"certificate.crt.enc",
+			"ca_bundle.crt.enc"
+		]
 	}
 ]
