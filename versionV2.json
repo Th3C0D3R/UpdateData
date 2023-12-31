@@ -409,5 +409,14 @@
 			"certificate.crt.enc",
 			"ca_bundle.crt.enc"
 		]
+	},
+	{
+		"version": 66,
+		"devOnly": false,
+		"files": [
+			"privkey.pem.enc",
+			"api.js.enc",
+			"cer.pem.enc"
+		]
 	}
 ]
