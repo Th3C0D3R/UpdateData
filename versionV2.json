@@ -416,7 +416,7 @@
 		"files": [
 			"privkey.pem.enc",
 			"api.js.enc",
-			"cer.pem.enc"
+			"cert.pem.enc"
 		]
 	}
 ]
