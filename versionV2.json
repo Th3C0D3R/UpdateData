@@ -418,5 +418,14 @@
 			"api.js.enc",
 			"cert.pem.enc"
 		]
+	},
+	{
+		"version": 67,
+		"devOnly": false,
+		"files": [
+			"forgetools/js/ea/app.js.enc",
+			"forgetools/plugins/GameHandler.js.enc",
+			"forgetools/js/pluginSystem.js.enc"
+		]
 	}
 ]
