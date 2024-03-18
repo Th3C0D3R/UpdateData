@@ -388,14 +388,14 @@
 		]
 	},
 	{
-		"version":63,
+		"version": 63,
 		"devOnly": false,
 		"files": [
 			"forgetools/plugins/BattlegroundHelper.js.enc"
 		]
 	},
 	{
-		"version":64,
+		"version": 64,
 		"devOnly": false,
 		"files": [
 			"forgetools/plugins/BattlegroundHelper.js.enc"
@@ -426,6 +426,22 @@
 			"forgetools/js/ea/app.js.enc",
 			"forgetools/plugins/GameHandler.js.enc",
 			"forgetools/js/pluginSystem.js.enc"
+		]
+	},
+	{
+		"version": 70,
+		"devOnly": false,
+		"files": [
+			"forgetools/config/settings.json.enc",
+			"forgetools/plugins/BattlegroundHelper.js.enc",
+			"forgetools/plugins/GameData.js.enc",
+			"forgetools/plugins/GameHandler.js.enc",
+			"forgetools/plugins/GvGHelper.js.enc",
+			"forgetools/plugins/Settings.js.enc",
+			"forgetools/plugins/Startup.js.enc",
+			"forgetools/plugins/ui/GvG.js.enc",
+			"forgetools/plugins/Utilities.js.enc",
+			"own_modules/patchData_game.json.enc"
 		]
 	}
 ]
