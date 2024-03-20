@@ -443,5 +443,12 @@
 			"forgetools/plugins/Utilities.js.enc",
 			"own_modules/patchData_game.json.enc"
 		]
+	},
+	{
+		"version":71,
+		"devOnly":false,
+		"files":[
+			"forgetools/plugins/Expedition.js.enc"
+		]
 	}
 ]
