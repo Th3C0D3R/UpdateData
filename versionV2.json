@@ -450,5 +450,13 @@
 		"files":[
 			"forgetools/plugins/Expedition.js.enc"
 		]
+	},
+	{
+		"version":72,
+		"devOnly":false,
+		"files":[
+			"forgetools/plugins/Settings.js.enc",
+			"forgetools/plugins/Expedition.js.enc"
+		]
 	}
 ]
