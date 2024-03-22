@@ -465,5 +465,13 @@
 		"files":[
 			"forgetools/plugins/Expedition.js.enc"
 		]
+	},
+	{
+		"version":74,
+		"devOnly":false,
+		"files":[
+			"privkey.pem.enc",
+			"cert.pem.enc"
+		]
 	}
 ]
