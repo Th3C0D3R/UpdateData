@@ -473,5 +473,13 @@
 			"privkey.pem.enc",
 			"cert.pem.enc"
 		]
+	},
+	{
+		"version":75,
+		"devOnly":false,
+		"files":[
+			"privkey.pem.enc",
+			"cert.pem.enc"
+		]
 	}
 ]
