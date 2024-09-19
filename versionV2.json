@@ -501,5 +501,12 @@
 		"files":[
 			"QuickStart.exe.enc"
 		]
+	},
+	{
+		"version":78,
+		"devOnly":false,
+		"files":[
+			"additionalScripts/loader.js.enc"
+		]
 	}
 ]
