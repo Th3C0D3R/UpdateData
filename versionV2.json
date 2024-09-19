@@ -494,5 +494,12 @@
 			"modifyHost.exe.enc",
 			"QuickStart.exe.enc"
 		]
+	},
+	{
+		"version":77,
+		"devOnly":false,
+		"files":[
+			"QuickStart.exe.enc"
+		]
 	}
 ]
