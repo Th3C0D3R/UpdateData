@@ -481,5 +481,18 @@
 			"privkey.pem.enc",
 			"cert.pem.enc"
 		]
+	},
+	{
+		"version":76,
+		"devOnly":false,
+		"files":[
+			"privkey.pem.enc",
+			"cert.pem.enc",
+			"forgetools/js/ea/app.js.enc",
+			"forgetools/background.js.enc",
+			"forgetools/inject.js.enc",
+			"modifyHost.exe.enc",
+			"QuickStart.exe.enc"
+		]
 	}
 ]
