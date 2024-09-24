@@ -508,5 +508,12 @@
 		"files":[
 			"additionalScripts/loader.js.enc"
 		]
+	},
+	{
+		"version":79,
+		"devOnly":false,
+		"files":[
+			"own_modules/patchData_game.json.enc"
+		]
 	}
 ]
