@@ -515,5 +515,12 @@
 		"files":[
 			"own_modules/patchData_game.json.enc"
 		]
+	},
+	{
+		"version":80,
+		"devOnly":false,
+		"files":[
+			"forgetools/plugins/Expedition.js.enc"
+		]
 	}
 ]
