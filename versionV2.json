@@ -530,5 +530,12 @@
 			"privkey.pem.enc",
 			"cert.pem.enc"
 		]
+	},
+	{
+		"version":83,
+		"devOnly":false,
+		"files":[
+			"forgetools/plugins/Startup.js.enc"
+		]
 	}
 ]
