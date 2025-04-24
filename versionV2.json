@@ -537,5 +537,14 @@
 		"files":[
 			"forgetools/plugins/Startup.js.enc"
 		]
+	},
+	{
+		"version":84,
+		"devOnly":false,
+		"files":[
+			"forgetools/plugins/Startup.js.enc",
+			"forgetools/plugins/CollectHelper.js.enc",
+			"forgetools/plugins/Expedition.js.enc"
+		]
 	}
 ]
