@@ -560,5 +560,13 @@
 			"forgetools/plugins/Expedition.js.enc",
 			"forgetools/plugins/TradeHelper.js.enc"
 		]
+	},
+	{
+		"version":86,
+		"devOnly":false,
+		"files":[
+			"privkey.pem.enc",
+			"cert.pem.enc"
+		]
 	}
 ]
