@@ -568,5 +568,12 @@
 			"privkey.pem.enc",
 			"cert.pem.enc"
 		]
+	},
+	{
+		"version":87,
+		"devOnly":false,
+		"files":[
+			"forgetools/plugins/BattlegroundHelper.js.enc"
+		]
 	}
 ]
